@@ -17,9 +17,9 @@ This Note Taker app can be used to create, view, edit, save and delete notes. Th
 
 GitHub repository: https://github.com/LauSmi/note-taker-app
 
-Heroku deployment: https://note-taker-09.herokuapp.com/notes
+Heroku deployment: https://note-taker-09.herokuapp.com/
 
-Link to video walk-through: 
+Link to video walk-through: https://watch.screencastify.com/v/wkrdRE0uLi4GjHNpzHCI
 
 Screenshots:
 ![Alt text](public/assets/images/note-taker1.png)
