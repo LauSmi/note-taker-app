@@ -48,17 +48,17 @@ Starter code: https://github.com/coding-boot-camp/miniature-eureka
 
 For references and tutorials:
 
-https://w3schools.com
-https://developer.mozilla.org/en-US
-https://github.com/
+- https://w3schools.com
+- https://developer.mozilla.org/en-US
+- https://github.com/
 
 ## Technologies
 
-Express.js
-Node.js
-HTML
-CSS
-JavaScript
+- Express.js
+- Node.js
+- HTML
+- CSS
+- JavaScript
 
 ## License
 
